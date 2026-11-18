@@ -1,51 +1,121 @@
 
 <div align="center">
 
-# ⚡ Hey, I'm Kareem
+# ⚡ KAREEMCODEZ ⚡
 
-### Software Engineering • QA • Artificial Intelligence
+### `SOFTWARE ENGINEER // QA // AI`
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=Software+Engineering+Enthusiast;Exploring+AI+and+Automation;Building+Reliable+Software;Always+Learning+New+Things)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=BF5AF2&center=true&vCenter=true&width=550&lines=Welcome+to+my+digital+universe;Software+Engineering+Enthusiast;QA+%26+Test+Automation;Exploring+AI+and+Intelligent+Agents;Code.+Test.+Improve.+Repeat." alt="Typing Animation"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090018,50:6A0DAD,100:090018&height=3&section=header" width="100%"/>
+
+</div>
+
+## 👾 `whoami`
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Kareem"
+        self.username = "KareemCodez"
+        self.university = "MSA University"
+        self.major = "Computer Science"
+
+        self.interests = [
+            "Software Engineering",
+            "Quality Assurance",
+            "Test Automation",
+            "Artificial Intelligence",
+            "Intelligent Agents"
+        ]
+
+        self.current_project = "Agentic Learning Platform"
+        self.motto = "Code. Test. Improve. Repeat."
+
+    def say_hello(self):
+        print("Welcome to my digital universe!")
+
+me = Developer()
+me.say_hello()
+```
+
+## ⚡ `tech_stack.exe`
+
+<div align="center">
+
+### Languages & Development
+
+<img src="https://skillicons.dev/icons?i=python,cs,js,html,css&theme=dark" />
+
+### Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postgres,docker&theme=dark" />
+
+</div>
+
+## 🚀 `current_missions`
+
+```yaml
+STATUS: ONLINE
+
+CURRENTLY_WORKING_ON:
+  - AI-powered Learning Management System
+  - Software Quality Assurance
+  - Software Engineering Projects
+
+EXPLORING:
+  - Intelligent AI Agents
+  - Test Automation
+  - Full-Stack Development
+
+MISSION:
+  Build reliable, intelligent, and useful software.
+```
+
+## 🧪 `featured_work`
+
+| Project | Description |
+|:---|:---|
+| 🤖 Agentic Learning Platform | An intelligent learning platform designed to support students, teachers, and parents |
+| 🔐 Security & Cryptography | Exploring encryption algorithms and cybersecurity concepts |
+| 💻 Software Engineering | Developing and testing practical software applications |
+
+## 📊 `github_analytics`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KareemCodez&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BF5AF2&icon_color=BF5AF2&text_color=FFFFFF" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KareemCodez&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BF5AF2&text_color=FFFFFF" height="165"/>
+
+</div>
+
+## 🐍 `contribution_activity`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KareemCodez&bg_color=0D1117&color=BF5AF2&line=9D4EDD&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+## 🌐 `connect`
+
+<div align="center">
+
+<a href="https://github.com/KareemCodez">
+  <img src="https://img.shields.io/badge/GitHub-KareemCodez-BF5AF2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## About Me
-
-```python
-developer = {
-    "name": "Kareem",
-    "focus": [
-        "Software Engineering",
-        "Quality Assurance",
-        "Artificial Intelligence"
-    ],
-    "currently_building": "Agentic Learning Platform",
-    "goal": "Build reliable and intelligent software"
-}
-```
-
-## ⚡ Tech Stack
-
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=python,cs,js,html,css,git,github,postgres,vscode,visualstudio&theme=dark)
+### `> SYSTEM STATUS: ALWAYS LEARNING_`
 
-</div>
+**💜 Code. Test. Improve. Repeat. 💜**
 
-## 🚀 Current Focus
-
-- 🤖 Developing an AI-powered learning platform
-- 🧪 Improving software testing and QA skills
-- 💻 Building practical software engineering projects
-- 📚 Exploring intelligent agents and automation
-
-
---
-
-<div align="center">
-
-### Code. Test. Improve. Repeat.
+<img src="https://komarev.com/ghpvc/?username=KareemCodez&label=PROFILE+VIEWS&color=9D4EDD&style=for-the-badge"/>
 
 </div>
