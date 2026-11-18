@@ -42,13 +42,33 @@ me.say_hello()
 
 <div align="center">
 
-### Languages & Development
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,cs,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cs,java,js,ts,html,css&theme=dark" />
 
-### Tools & Technologies
+### 🚀 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postgres,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" />
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs&theme=dark" />
+
+### 🧪 Software Testing & QA
+
+<img src="https://skillicons.dev/icons?i=selenium&theme=dark" />
+
+<br>
+
+<img src="https://img.shields.io/badge/TestNG-E94235?style=for-the-badge&logoColor=white" />
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
+
+### 🛠️ Tools & Development
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker&theme=dark" />
 
 </div>
 
