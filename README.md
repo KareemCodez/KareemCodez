@@ -11,12 +11,11 @@
 
 ---
 
-## 💜 About Me
+## About Me
 
 ```python
 developer = {
     "name": "Kareem",
-    "university": "MSA University",
     "focus": [
         "Software Engineering",
         "Quality Assurance",
@@ -42,20 +41,11 @@ developer = {
 - 💻 Building practical software engineering projects
 - 📚 Exploring intelligent agents and automation
 
-## 📊 GitHub Statistics
+
+--
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 Code. Test. Improve. Repeat.
+### Code. Test. Improve. Repeat.
 
 </div>
