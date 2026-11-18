@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**KareemCodez/KareemCodez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Kareem 👋
 
-Here are some ideas to get you started:
+### Software Engineer | QA & Automation | AI Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student at MSA University,
+passionate about building reliable software and
+exploring intelligent systems.
+
+### 🚀 Currently Working On
+- AI-powered Learning Management System
+- Software Testing & Quality Assurance
+- Full-stack software projects
+
+### 🛠️ Tech Stack
+Python • C# • JavaScript • SQL • Git
+
+### 🎯 Interests
+Software Engineering | Test Automation | AI
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
