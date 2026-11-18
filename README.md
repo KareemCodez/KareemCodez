@@ -62,31 +62,13 @@ me.say_hello()
 
 </div>
 
-## 🐍 `contribution_activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KareemCodez&bg_color=0D1117&color=BF5AF2&line=9D4EDD&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-## 🌐 `connect`
-
-<div align="center">
-
-<a href="https://github.com/KareemCodez">
-  <img src="https://img.shields.io/badge/GitHub-KareemCodez-BF5AF2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
 ---
 
 <div align="center">
 
 ### `> SYSTEM STATUS: ALWAYS LEARNING_`
 
-**💜 Code. Test. Improve. Repeat. 💜**
+** Code. Test. Improve. Repeat. **
 
 <img src="https://komarev.com/ghpvc/?username=KareemCodez&label=PROFILE+VIEWS&color=9D4EDD&style=for-the-badge"/>
 
