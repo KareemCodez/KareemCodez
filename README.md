@@ -18,7 +18,6 @@ class Developer:
     def __init__(self):
         self.name = "Kareem"
         self.username = "KareemCodez"
-        self.university = "MSA University"
         self.major = "Computer Science"
 
         self.interests = [
@@ -52,33 +51,6 @@ me.say_hello()
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postgres,docker&theme=dark" />
 
 </div>
-
-## 🚀 `current_missions`
-
-```yaml
-STATUS: ONLINE
-
-CURRENTLY_WORKING_ON:
-  - AI-powered Learning Management System
-  - Software Quality Assurance
-  - Software Engineering Projects
-
-EXPLORING:
-  - Intelligent AI Agents
-  - Test Automation
-  - Full-Stack Development
-
-MISSION:
-  Build reliable, intelligent, and useful software.
-```
-
-## 🧪 `featured_work`
-
-| Project | Description |
-|:---|:---|
-| 🤖 Agentic Learning Platform | An intelligent learning platform designed to support students, teachers, and parents |
-| 🔐 Security & Cryptography | Exploring encryption algorithms and cybersecurity concepts |
-| 💻 Software Engineering | Developing and testing practical software applications |
 
 ## 📊 `github_analytics`
 
