@@ -72,16 +72,6 @@ me.say_hello()
 
 </div>
 
-## 📊 `github_analytics`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KareemCodez&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BF5AF2&icon_color=BF5AF2&text_color=FFFFFF" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KareemCodez&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BF5AF2&text_color=FFFFFF" height="165"/>
-
-</div>
-
 ---
 
 <div align="center">
