@@ -3,7 +3,7 @@
 
 ### Software Engineer | QA & Automation | AI Enthusiast
 
-I'm a Computer Science student at MSA University,
+I'm a Computer Science student ,
 passionate about building reliable software and
 exploring intelligent systems.
 
